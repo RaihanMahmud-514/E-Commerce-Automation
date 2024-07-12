@@ -111,4 +111,3 @@ describe('Kinetic Assessment Test', () => {
 
     });
 });
-  
