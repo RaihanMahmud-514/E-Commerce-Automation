@@ -1,6 +1,6 @@
 In this project I covered the following scenarios:
 
-1. Launch browser(Chrome/Firefox)
+1. Launch browser(Chrome)
 2. Navigate to URL 'http://automationexercise.com'
 3. Verify that the home page is visible successfully
 4. Add products to the cart
